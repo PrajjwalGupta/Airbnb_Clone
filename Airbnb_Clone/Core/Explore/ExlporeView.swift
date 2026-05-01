@@ -20,7 +20,7 @@ struct ExlporeView: View {
                             .clipShape(RoundedRectangle(cornerRadius: 10))
                     }
                 }
-                .padding()
+                
             }
         }
     }
